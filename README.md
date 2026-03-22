@@ -12,11 +12,11 @@ The primary goal is to drive revenue growth and operational efficiency through:
 
 **Critical KPIs **
 
-  Revenue & Volume: $522.6M total premium collected across 9,938 unique policies.
+  Revenue & Volume: 522.6M total premium collected across 9,938 unique policies.
 
-  Market Reach: Providing a total financial safety net (Sum Assured) of $10.54B.
+  Market Reach: Providing a total financial safety net (Sum Assured) of 10.54B.
 
-  Efficiency: Average Premium per policy stands at $52,261, with an underwriting expense ratio of approximately 10%.
+  Efficiency: Average Premium per policy stands at 52,261, with an underwriting expense ratio of approximately 10%.
 
   Retention Health: 73.3% Active policy rate; however, a 25.2% Surrender rate highlights a key area for intervention.
 
@@ -26,7 +26,7 @@ The primary goal is to drive revenue growth and operational efficiency through:
 
 Operational & Regional Performance
 
-  The Pareto Effect in Geography: Revenue is highly concentrated. The North Region ($198.6M) generates nearly as much revenue as the South, East, and West regions combined.
+  The Pareto Effect in Geography: Revenue is highly concentrated. The North Region (198.6M) generates nearly as much revenue as the South, East, and West regions combined.
 
   Hub Performance: Delhi and Uttar Pradesh are the primary engines of growth. Sikkim stands out as a high-performing outlier in the East.
 
@@ -37,6 +37,6 @@ Agent & Management Insights
 
 Customer & Policy Insights
 
-  Stability Over Time: Sales have remained remarkably consistent (averaging ~$51M/year) over the last decade, indicating a mature market presence but a potential plateau in growth.
+  Stability Over Time: Sales have remained remarkably consistent (averaging ~51M/year) over the last decade, indicating a mature market presence but a potential plateau in growth.
 
   Loss Prevention: The 2,524 surrendered policies represent a significant "leaked" revenue opportunity. Customers are staying through the "Active" phase but exiting before full maturity.
