@@ -1,6 +1,6 @@
 # Insurance_Policy_Analysis
 
-** Business Objectives**
+**Business Objectives**
 
 The primary goal is to drive revenue growth and operational efficiency through:
 
@@ -10,7 +10,7 @@ The primary goal is to drive revenue growth and operational efficiency through:
 
   Retention & Loyalty: Reducing the surrender rate (currently 25%) to stabilize long-term premium flow.
 
-**Critical KPIs **
+**Critical KPIs**
 
   Revenue & Volume: 522.6M total premium collected across 9,938 unique policies.
 
